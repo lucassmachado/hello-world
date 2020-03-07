@@ -2,4 +2,6 @@
 
 Hi Humans!
 
-Lucas here, I like Java and everything about it.
+Lucas here...
+
+This branch is just to remember how to use GitHub again.
